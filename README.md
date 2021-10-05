@@ -2,7 +2,7 @@
 - 👀 I’m interested in global health data.
 - 🌱 I’m currently learning python for ArcGIS Pro.
 - 💞️ I’m looking to collaborate on global health or humanitarian aid projects.
-- 📫 How to reach me ...
+- 📫 How to reach me : ALopez-Carr@directrelief.org
 
 <!---
 MagicLlamaBoots/MagicLlamaBoots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
